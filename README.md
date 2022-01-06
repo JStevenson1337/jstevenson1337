@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
 " alt="jstevenson1337" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstevenson1337" alt="jstevenson1337" /></a> </p>
+
 
 - 🌱 I’m currently learning **Full Stack @Holberton**
 
