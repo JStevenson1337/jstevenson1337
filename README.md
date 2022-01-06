@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jstevenson1337&label=Profile%20views&color=0e75b6&style=flat" alt="jstevenson1337" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstevenson1337" alt="jstevenson1337" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstevenson1337&theme=onedark&column=4&margin-w=15&margin-h=15" alt="jstevenson1337" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack @Holberton**
 
