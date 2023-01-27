@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstevenson1337&theme=onedark&column=4&margin-w=15&margin-h=15" alt="jstevenson1337" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack @Holberton**
+- 🌱 I’m currently learning **Linux, Advanced Algorithms, and Blockchain @Holberton**
 
 - 💬 Ask me about **Linux, Home Lab**
 
-- 📫 How to reach me **jeremy.m.stevenson@gmail.com**
+- 📫 How to reach me **jeremy.m.stevenson@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
